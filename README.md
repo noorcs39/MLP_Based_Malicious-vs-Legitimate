@@ -21,10 +21,7 @@ To run this project, you need to have Python installed along with the following 
 - `openpyxl` (for reading Excel files)
 
 ## You can install the necessary packages using pip:
-
-  ```bash
-  pip install tensorflow pandas scikit-learn matplotlib seaborn openpyxl
-  '''
+pip install tensorflow pandas scikit-learn matplotlib seaborn openpyxl
 
 ## Output
 
