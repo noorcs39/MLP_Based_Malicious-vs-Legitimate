@@ -22,8 +22,6 @@ To run this project, you need to have Python installed along with the following 
 
 You can install the necessary packages using pip:
 
-The backticks before "bash" start the code block, and the backticks after the command end the block. Ensure there's no space between the three backticks at the beginning or the end of the block. This will stop the bash formatting and allow you to continue with normal Markdown text.
-
 ```bash
 pip install tensorflow pandas scikit-learn matplotlib seaborn openpyxl
 
